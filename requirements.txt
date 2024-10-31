@@ -1,0 +1,8 @@
+# System Requirements:
+
++ Operating System: Windows XP, Vista, 7, 8, 8.1, 10, & 11.
++ System Version: 64-bit only.
++ Memory: 4 GB RAM needed.
++ Hard Disk Space: 60 GB free space needed.
++ Processor: Intel Dual Core or above.
++ GPU Support: Integrated.
